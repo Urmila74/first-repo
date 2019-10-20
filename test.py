@@ -1,7 +1,12 @@
 (S'a1efc500dd62886a68391f573c2847fe'
 p1
-(ihappydoclib.parseinfo.moduleinfo
+p1 
+(ihappydoclib.Newinfo.moduleinfo
 ModuleInfo
+
+#  p1 
+# (ihappydoclib.parseinfo.moduleinfo
+# ModuleInfo
 p2
 (dp3
 S'_namespaces'
